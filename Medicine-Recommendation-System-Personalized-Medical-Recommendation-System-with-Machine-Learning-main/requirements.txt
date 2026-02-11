@@ -59,7 +59,7 @@ nest-asyncio==1.6.0
 notebook==7.4.5
 notebook_shim==0.2.4
 numpy==2.2.4
-opencv-python==4.12.0.88
+opencv-python-headless==4.12.0.88
 packaging==25.0
 pandas==2.2.3
 pandocfilters==1.5.1
@@ -74,8 +74,6 @@ Pygments==2.19.2
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2025.2
-pywin32==311
-pywinpty==3.0.0
 PyYAML==6.0.2
 pyzmq==27.1.0
 referencing==0.36.2
